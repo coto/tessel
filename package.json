@@ -1,5 +1,5 @@
 {
-  "name": "tessel-code",
+  "name": "Tessel-Sandbox",
   "version": "0.0.0",
   "description": "tessel init project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coto/tessel-boilerplate"
+    "url": "https://github.com/coto/tessel"
   },
   "keywords": [
     "tessel"
@@ -16,7 +16,13 @@
   "author": "@coto",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coto/tessel-boilerplate/issues"
+    "url": "https://github.com/coto/tessel/issues"
   },
-  "homepage": "https://github.com/coto/tessel-boilerplate"
+  "homepage": "https://github.com/coto/tessel",
+  "dependencies": {
+    "ble-ble113a": "~0.1.11",
+    "rfid-pn532": "~0.1.7",
+    "tessel": "~0.3.18"
+  },
+  "devDependencies": {}
 }

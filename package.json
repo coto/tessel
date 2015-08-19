@@ -1,0 +1,22 @@
+{
+  "name": "tessel-code",
+  "version": "0.0.0",
+  "description": "tessel init project",
+  "main": "index.js",
+  "scripts": {
+    "test": "coto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coto/tessel-boilerplate"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "@coto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coto/tessel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/coto/tessel-boilerplate"
+}
